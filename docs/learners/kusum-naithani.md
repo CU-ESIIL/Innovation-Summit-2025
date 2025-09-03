@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Kusum Naithani  
+- **Affiliation:** University of Arkansas | NSF  
+- **Email:** naithanilab1@gmail.com  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+My research focuses on understanding the impacts of climate change and land use on ecosystem structure, functions, and services, with the goal of informing community-based solutions for regenerative natural resource management. I am excited to learn about tipping points by working with a great team.   
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I love watching movies!   
 
 ---
 
