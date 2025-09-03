@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Nayani Ilangakoon 
+- **Affiliation:** Earth Lab, University of Colorado Boulder  
+- **Email:** ginikanda.ilangakoon@colorado.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I study forest disturbances and state changes, focusing on how we can recognize and support ecosystems before critical transitions occur, using cutting-edge remote sensing and in-situ data. I am particularly interested in learning and connecting teams around machine learning, AI, and diverse ways of knowing to better understand ecosystem responses.  
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I love traveling to new places and spending time with my family. 
 
 ---
 
