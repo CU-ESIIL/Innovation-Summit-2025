@@ -7,7 +7,7 @@ Please edit this file with your own details.
 
 ## About Me
 - **Name:** Ty Tuff 
-- **Affiliation:** Your institution or organization  
+- **Affiliation:** ESIIL  
 - **Email:** your@email.edu  
 
 ## Research Interests
