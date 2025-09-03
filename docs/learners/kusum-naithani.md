@@ -1,4 +1,4 @@
-# Your Name Here
+# Kusum Naithani
 
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
