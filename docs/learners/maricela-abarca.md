@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Maricela Abarca  
+- **Affiliation:** Stanford University  
+- **Email:** mabarca@stanford.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+My expertise is in data management and biodiversity data from natural history collections. I'm interested in ecological networks as complex systems and in functional diversity.
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I'm a two-time watermelone eating contest winner.  
 
 ---
 
