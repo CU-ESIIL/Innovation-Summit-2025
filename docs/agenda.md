@@ -11,13 +11,25 @@ We are still developing the agenda for the 2025 ESIIL Summit and will add more i
 
 **2025 ESIIL Innovation Summit**
 
-September 22: 1-4 pm MT - Leadership workshop (by invite), Early Registration and Optional Activities
+**Monday, September 22**: 1-4 pm MT - Leadership workshop (by invite), Early Registration
 
-September 23: 9am-5pm MT
+**Tuesday, September 23**:
 
-              5:15-7:15pm MT Reception at Boulder Social
+* 8:30am-9am MT: Registration, Light breakfast provided
 
-Septmeber 24: 9am-5pm MT
+* 9am-5pm MT: Summit
 
-September 25: 9am-12pm MT
+5:15-7:15pm MT: Reception at Boulder Social, 1600 38th St., Boulder, CO 80301
+
+**Wednesday, Septmeber 24**:
+
+* 8:30am-9am MT: Light breakfast provided
+
+* 9am-5pm MT: Summit
+
+**Thursday, September 25**:
+
+* 8:30am-9am MT: Light breakfast provided
+
+* 9am-12pm MT: Summit
 
