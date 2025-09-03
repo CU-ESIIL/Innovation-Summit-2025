@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Israel Borokini 
+- **Affiliation:** Montana State University Bozeman  
+- **Email:** israel.borokini@montana.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I am a biodiversity scientist with interest in investigating the patterns and processes tha shape biodiversity across time and space. I use quantitative methods in biogeography and community ecology to analyze various data sourced from museum specimens, floristics, long-term ecological monitoring, and geospatial data to increase scientific understanding of biodiversity patterns.  
 
 ## Fun Fact
-Share one fun fact about yourself!  
+Soccer and tennis fan!
 
 ---
 
