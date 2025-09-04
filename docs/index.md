@@ -45,7 +45,7 @@ September 23:
 * 9am-5pm MT: Summit
   
 * 5:15-7:15pm MT: Summit Reception at Boulder Social, 1600 38th St., Boulder, CO 80301
-
+  
 Septmeber 24: 
 
 * 8:30am-9am MT: Light breakfast provided
