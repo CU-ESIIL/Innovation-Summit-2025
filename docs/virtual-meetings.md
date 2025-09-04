@@ -11,7 +11,10 @@ Please join us for our pre-Summit training events:
 **Navigating CyVerse and Github: A Gateway to Advanced Computation for Science** - Wednesday, September 3rd, 1-3 pm MT 
 
 - [ESIIL's Cloud Computing Quickstart Guide](https://cu-esiil.github.io/home/quickstart/cloud/)
+  
 - Please set up a [GitHub account](https://github.com/) and a [CyVerse account](https://user.cyverse.org/signup) and let us know your usernames by completing this [quick form](https://docs.google.com/forms/d/e/1FAIpQLSccCdVt3RmCvHXBRrg1n8gYKiw5QUuOMezvhGs5fr9CGkcTjA/viewform?usp=dialog).
+  
+- [View Recording](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/EfEseb74YPhAvfYF722zOOIB4uwmexZqyqHe6F2jDQPYVQ?e=vhDP3G)
   
 **Creative Data Exploration in the Cloud: Innovating with Open Science** - Tuesday, September 9th, 1-3 pm MT 
 
