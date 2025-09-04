@@ -119,9 +119,7 @@ Click [here](https://seec.colorado.edu/system/pdfs/first_floor.pdf) for a map of
 ***Let us know if you need something to be able to participate comfortably.***
 
 ### Venue Parking
-Permits are required to park on CU Boulder campus and lot 556 is the nearest to the SEEC building ([Campus Map](https://www.colorado.edu/map)). Here is the link to buy a daily permit ($10) for Parking Lot 556 through CU Parking Services: https://cuboulder.aimsparking.com. You will need to buy a permit for each date you park at the lot. 
-
-![parking](assets/esiil_content/parkingSEEC.png)
+For those who will need to park a vehicle on campus to attend the Summit, please complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSdQ0pxbRH47CynESuFE6bLnLuxWYVt8Dvk0hDoEHPNEHAvPPA/viewform?usp=dialog) to receive event parking permit instructions and voucher code for [lot 556](https://maps.app.goo.gl/os9MKRrer9GKKYrv8). Note that due to University policy, University of Colorado employees and students are not allowed to use this voucher code.  Follow the permit instructions to claim your $0 permit. Guests only need to claim one permit for the week as it will last from 09/22-09/25. 
 
 ### Health & Safety Resources
 * Campus and Off-Campus Emergencies 911
