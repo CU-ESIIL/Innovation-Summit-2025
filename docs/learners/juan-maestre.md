@@ -7,7 +7,7 @@ Please edit this file with your own details.
 
 ## About Me
 - **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
+- **Affiliation:** UT-Austin
 - **Email:** your@email.edu  
 
 ## Research Interests
