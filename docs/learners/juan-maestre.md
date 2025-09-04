@@ -6,9 +6,9 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
+- **Name:** Juan Maestre
 - **Affiliation:** UT-Austin
-- **Email:** your@email.edu  
+- **Email:** juanpedro.maestre@utexas.edu  
 
 ## Research Interests
 Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
