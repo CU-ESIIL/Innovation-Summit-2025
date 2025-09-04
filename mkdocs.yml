@@ -27,7 +27,7 @@ nav:
            - Stream data: data-library/stac_mount_save.md
            - Stream data (light): data-library/stac_simple.md
            - Shutdown procedure: resources/cyverse_shutdown.md
-         - Participants Scratchpad: learners/index.md
+       - Participants Scratchpad: learners/index.md
   - Agenda: agenda.md
   - Additional resources:
        - Reading List: readinglist.md
