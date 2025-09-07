@@ -6,9 +6,9 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Sylwia Zieba
+- **Affiliation:** Ramboll Galago
+- **Email:** sylwia.zieba@outlook.com 
 
 ## Research Interests
 Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
