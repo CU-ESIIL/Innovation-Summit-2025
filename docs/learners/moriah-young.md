@@ -1,4 +1,4 @@
-# Your Name Here
+# Moriah Young
 
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Moriah Young  
+- **Affiliation:** Michigan State University  
+- **Email:** youngmor@msu.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+My research focuses broadly on understanding how soil microbial and plant communities respond to climate stressors and also how soil microbes mediate aboveground responses to those stressors. At this summit, I'm really excited to expand my knowledge of open science principles and to use cutting-edge computational methods for analyzing large-scale ecological datasets to understand environmental tipping points and transformations!
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I love to play ultimate frisbee, and I collect Lake Superior agates and Great Lakes fossils.
 
 ---
 
