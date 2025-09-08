@@ -16,7 +16,7 @@ Please join us for our pre-Summit training events:
   
 - [View Recording](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/EfEseb74YPhAvfYF722zOOIB4uwmexZqyqHe6F2jDQPYVQ?e=vhDP3G)
   
-**Creative Data Exploration in the Cloud: Innovating with Open Science** - Tuesday, September 9th, 1-3 pm MT 
+**Creative Data Exploration in the Cloud with AI: Innovating with Open Science** - Tuesday, September 9th, 1-3 pm MT 
 
 Haven't received a calendar invite? Please email esiil@colorado.edu to get the Zoom link.
 
