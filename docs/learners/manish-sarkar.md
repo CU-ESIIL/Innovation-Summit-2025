@@ -6,7 +6,7 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Manish Sarkar  
+- **Name:** Manish Sarkar 
 - **Affiliation:** Case Western Reserve University 
 - **Email:** manish.sarkar@case.edu 
 
