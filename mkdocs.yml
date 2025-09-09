@@ -127,6 +127,11 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+  - assets/extra.css
+
+extra_javascript:
+  - assets/observe.js
+  - assets/counter.js
 
 plugins:
     - search

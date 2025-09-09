@@ -1,0 +1,35 @@
+/* ===== Global micro-interactions & layout ===== */
+.hero { text-align: center; padding: 2rem 0; }
+.hero .kicker { font-weight: 500; opacity: .9; margin-top: .25rem; }
+#countdown { font-variant-numeric: tabular-nums; margin-top: .4rem; font-weight: 600; }
+
+/* Reveal-on-scroll (AOS) */
+.aos { opacity: 0; transform: translateY(10px); transition: opacity .5s ease, transform .5s ease; }
+.aos.is-visible { opacity: 1; transform: translateY(0); }
+@media (prefers-reduced-motion: reduce) {
+  .aos, .aos.is-visible { opacity: 1; transform: none; transition: none; }
+}
+
+/* Parallax banner */
+.header-parallax {
+  background: var(--md-default-bg-color) url('../images/header.jpg') center/cover no-repeat fixed;
+  border-radius: .6rem; height: 320px; margin: 1rem 0 0;
+}
+@media (prefers-reduced-motion: reduce) {
+  .header-parallax { background-attachment: scroll; }
+}
+
+/* Card hover nudge */
+.card { transition: transform .2s ease, box-shadow .2s ease; }
+.card:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,.08); }
+
+/* External link cue */
+a[href*="http"]:not(.md-logo):after {
+  content: "\2197"; margin-left: .2em; font-size: .85em; opacity: .6; transition: opacity .2s;
+}
+a[href*="http"]:hover:after { opacity: 1; }
+
+/* SVG "draw" effect */
+svg[pathLength] path { stroke-dasharray: 1; stroke-dashoffset: 1; transition: stroke-dashoffset .8s ease; opacity: .65; }
+.is-visible svg[pathLength] path, svg.is-visible path { stroke-dashoffset: 0; }
+
