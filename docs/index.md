@@ -1,14 +1,31 @@
+<div class="hero">
+  <h1>ESIIL Innovation Summit 2025</h1>
+  <p class="kicker">September 23–25, 2025 · Boulder, CO</p>
+  <div id="countdown" aria-live="polite"></div>
+</div>
+
 ![header](assets/esiil_content/header.png)
+
+<div class="grid cards">
+[Pre-Summit Trainings](pre-summit-trainings.md){ .card title="Trainings" }
+[Agenda](agenda.md){ .card title="Agenda" }
+[Venue](#venue-information){ .card title="Venue" }
+[Hotels](#hotels){ .card title="Hotels" }
+</div>
+
+<svg class="aos" pathLength="1" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <path d="M0 5 L100 5" fill="none" stroke="currentColor" stroke-width="2" />
+</svg>
 
 !!! Success "Almost here!"
 
     September 23-25, 2025
 
-    University of Colorado Boulder 
-    
+    University of Colorado Boulder
 
-# Welcome to the 2025 ESIIL Innovation Summit
-The 2025 ESIIL Innovation Summit will focus on **environmental tipping points and transformations**, bringing together scientists, managers, data analysts, and other thought leaders to address environmental challenges. 
+
+## Welcome to the 2025 ESIIL Innovation Summit
+The 2025 ESIIL Innovation Summit will focus on **environmental tipping points and transformations**, bringing together scientists, managers, data analysts, and other thought leaders to address environmental challenges.
 
 Environmental tipping points—also known as state changes, regime shifts, or type conversions—can occur gradually or suddenly, at varying scales, and significantly alter the ecosystems that sustain life on Earth. Understanding these past and future  transformations and ecological contexts that shape them, is critical for predicting, managing, and mitigating their impacts on both nature and society.
 
@@ -22,7 +39,7 @@ The 2025 Summit will offer a unique, data-driven opportunity to explore environm
   <a class="summit-button" href="https://cu-esiil.github.io/analytics-library/innovation-summit-2025/">Tipping Point Analyses</a>
 </div>
 
-## Goals
+## Goals {: .aos }
 
 The goals of the 2025 ESIIL Innovation Summit are to: 
 
@@ -33,7 +50,7 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 
 <img align=right src="assets/esiil_content/globe_tipping.png" width="200">
 
-## Agenda
+## Agenda {: .aos }
 **Pre-Summit Trainings**
 
 * Tuesday, August 5th, 1-3 pm MT - Science Jam: Creative Brainstorming to Inspire Innovation
@@ -66,14 +83,14 @@ September 25:
   
 * 9am-12pm MT: Summit
 
-## Summit Features
+## Summit Features {: .aos }
 - **Big Data and Cyberinfrastructure:** Access cutting-edge data analysis tools to explore tipping points including the **ecological and social dynamics** of systems that are undergoing transformation, or are poised to do so.
 - **Collaborative ‘Unconference’ Format:** This in-person Summit features a flexible, participant-driven format that allows attendees to shape their own experience. You will collaborate on projects that most inspire you, while fostering **dynamic interactions** and innovative solutions with others.
 - **Hands-On Learning and Strategy Development:** Participate in workshops and discussions aimed at developing **data-informed strategies** for addressing environmental transformations—focused on science for adaptive management and sustainability.
 - **Team Science & Ethical Open Science:** Gain deeper insights into **team science**, **ethical science practices**, and leadership in the rapidly evolving field of **environmental data science**.
 
 
-## What to Expect at the Summit
+## What to Expect at the Summit {: .aos }
 The Summit will take the form of an **‘unconference’**, a flexible and interactive event designed to foster **collaboration and innovation**. Attendees are encouraged to participate in discussions, workgroups, and brainstorming sessions centered around the themes that interest them most. The format encourages **co-creation** of solutions, with ample opportunities for spontaneous interactions and cross-disciplinary teamwork.
 
 What past attendees had to say:
@@ -84,7 +101,7 @@ What past attendees had to say:
 
 ![mentimeter](assets/esiil_content/Mentimeter.png)
 
-## Training Opportunities
+## Training Opportunities {: .aos }
 To prepare for the theme and goals of the Summit, all attendees will be invited to virtual training and networking opportunities prior to the event. **Virtual opportunities may include:**
 
 * Technical trainings in cloud computing (CyVerse and Github)
@@ -94,14 +111,14 @@ To prepare for the theme and goals of the Summit, all attendees will be invited 
 * Team science
 * Community building and collaboration
 
-## Who Should Attend? 
+## Who Should Attend? {: .aos }
 The **2025 ESIIL Innovation Summit** aims to bring together participants passionate about leveraging big data to enhance our understanding of environmental tipping points and transformations. The Summit will focus on identifying opportunities for data synthesis, exploring the cutting-edge capabilities of ESIIL’s cyberinfrastructure, and fostering innovative solutions through collaborative teams. Whether your expertise lies in environmental science, management, or community engagement, this event will offer valuable insights and the chance to collaborate with others from a variety of sectors. We encourage applications from individuals across all career stages and disciplines. 
 
 **Registration:** Accepted applicants will be sent a confirmation from to confirm their attendance.
 
 **Finances:** There is no registration fee for accepted participants to attend the Innovation Summit or associated trainings and workshops. A limited number of travel awards of up to $1,200 are available to help defray airfare/mileage and accommodation costs. Simple snacks, beverages, and lunch will be provided during the event. Please understand that there is a lot of uncertainty about the federal budget which may affect NSF and ESIIL’s ability to support travel to the Summit, so please do not book any travel at this time.
 
-## Venue Information
+## Venue Information {: .aos }
 The Innovation Summit will be held at the University of Colorado Boulder East Campus [SEEC Building](https://seec.colorado.edu/home), **C120 Auditorium**. 
 The address is 4001 Discovery Dr, Boulder, CO 80303. Click [here](https://seec.colorado.edu/getting-here/directions) for directions to the SEEC Building.
 
@@ -138,7 +155,7 @@ For those who will need to park a vehicle on campus to attend the Summit, please
 ### Internet Access
 Access wireless service on campus by selecting UCB Guest Wireless from your available Wi-Fi network options and accepting the terms and conditions upon opening your web browser. You will be prompted to re-accept these terms and conditions periodically. If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
 
-## Hotels
+## Hotels {: .aos }
 We have negotiated rates at two nearby hotels. Please **book by August 22nd** to receive this rate:
 ### [Hilton Garden Inn](https://www.hilton.com/en/hotels/wbubogi-hilton-garden-inn-boulder/)
 * Address: 2701 Canyon Boulevard, Boulder, Colorado, 80302
@@ -153,14 +170,14 @@ We have negotiated rates at two nearby hotels. Please **book by August 22nd** to
 ## Event Photography
 We plan to take some photos of activities throughout the course of the week for use in internal and external publications. If you do not wish to have your image recorded for distribution, please inform the photographer and/or email Casey.Jenson@colorado.edu. By participating in ESIIL events, you are agreeing to the use of your photos unless you notify us in writing of your desire to opt out of being photographed. 
 
-## Weather and Packing
+## Weather and Packing {: .aos }
 Boulder is 5,430 feet in elevation and has a sunny, semi-arid climate. Hydrating during your stay is very important, as altitude sickness (headache, nausea, shortness of breath, dizziness, and tiredness) can occur.
 
 Weather conditions can change rapidly throughout each day and from day to day. Layers are always a good choice.
 
 The average temperature in Boulder in September for a typical day ranges from a high of 75.4°F (24.1°C) to a low of 48.3°F (9°C). Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
 
-## Transportation
+## Transportation {: .aos }
 
 ### Air Transportation
 If you are flying in for the event you will want to fly into the Denver International Airport (DIA). Note that the airport is quite large and you will need to take an airport train to the main terminal.
