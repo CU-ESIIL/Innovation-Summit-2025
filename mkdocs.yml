@@ -17,11 +17,13 @@ nav:
        - Overview: virtual-meetings.md
        - Science Jam: science_jam.md
        - CyVerse and Github:
+           - Cloud Computing Quickstart Guide: https://cu-esiil.github.io/home/quickstart/cloud/
            - Markdown: resources/markdown_basics.md
            - Github: resources/github_basics.md
            - Cyverse: resources/cyverse_basics.md
            - Cyverse hacks: resources/cyverse_hacks.md
-       - Data Exploration in the Cloud: 
+       - Data Exploration in the Cloud:
+           - Python Quickstart Guide: https://cu-esiil.github.io/home/quickstart/python/
            - Startup procedure: resources/cyverse_startup.md
            - Move and Save data: data-library/move-data-to-instance.md
            - Stream data: data-library/stac_mount_save.md
