@@ -14,6 +14,14 @@ Environmental tipping points—also known as state changes, regime shifts, or ty
 
 The 2025 Summit will offer a unique, data-driven opportunity to explore environmental tipping points and transformations through big data. You will work alongside a collaborative group of peers to identify and understand the factors driving these changes and advance data-informed strategies for responding to them.
 
+## Explore Summit Resources
+
+<div class="summit-buttons">
+  <a class="summit-button" href="https://cu-esiil.github.io/home/">OASIS</a>
+  <a class="summit-button" href="https://cu-esiil.github.io/data-library/innovation-summit-2025/">Tipping Point Data</a>
+  <a class="summit-button" href="https://cu-esiil.github.io/analytics-library/innovation-summit-2025/">Tipping Point Analyses</a>
+</div>
+
 ## Goals
 
 The goals of the 2025 ESIIL Innovation Summit are to: 
