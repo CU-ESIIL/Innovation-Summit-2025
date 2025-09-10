@@ -127,8 +127,10 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+
 extra_css:
   - stylesheets/extra.css
+  - assets/css/extra.css
 
 plugins:
     - search
