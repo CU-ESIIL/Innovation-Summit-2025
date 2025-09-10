@@ -20,6 +20,7 @@ The 2025 Summit will offer a unique, data-driven opportunity to explore environm
   <a class="summit-button" href="https://cu-esiil.github.io/home/">OASIS</a>
   <a class="summit-button" href="https://cu-esiil.github.io/data-library/innovation-summit-2025/">Tipping Point Data</a>
   <a class="summit-button" href="https://cu-esiil.github.io/analytics-library/innovation-summit-2025/">Tipping Point Analyses</a>
+  <a class="summit-button" href="https://de.cyverse.org//apps/de/faf1d268-44cc-11ed-9715-008cfa5ae621">Compute Instance</a>
 </div>
 
 ## Goals
