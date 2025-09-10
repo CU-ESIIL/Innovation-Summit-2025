@@ -34,37 +34,34 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 <img align=right src="assets/esiil_content/globe_tipping.png" width="200">
 
 ## Agenda
-**Pre-Summit Trainings**
 
-* Tuesday, August 5th, 1-3 pm MT - Science Jam: Creative Brainstorming to Inspire Innovation
+<div class="grid cards" markdown>
 
-* Wednesday, September 3rd, 1-3 pm MT - Navigating CyVerse and Github: A Gateway to Advanced Computation for Science
+-   :material-school:{ .agenda-ico } **Pre-Summit Trainings**
+    ---
+    [:material-calendar: Add to calendar](#){ .md-button .md-button--secondary disabled }
+    - :material-clock: **Tue, Aug 5 · 1–3 PM MT** — *Science Jam: Creative Brainstorming to Inspire Innovation*
+    - :material-clock: **Wed, Sep 3 · 1–3 PM MT** — *Navigating CyVerse & GitHub: Gateway to Advanced Computation*
+    - :material-clock: **Tue, Sep 9 · 1–3 PM MT** — *Creative Data Exploration in the Cloud*
 
-* Tuesday, September 9th, 1-3 pm MT - Creative Data Exploration in the Cloud: Innovating with Open Science
+-   :material-party-popper:{ .agenda-ico } **2025 ESIIL Innovation Summit**
+    ---
+    [:material-map-marker: Venue & travel](#venue-information){ .md-button }
+    - **Mon, Sep 22**
+        - :material-account-tie: 1–4 PM MT — *Leadership workshop (invite only)*
+        - :material-account-check: Early registration
+    - **Tue, Sep 23**
+        - :material-coffee: 8:30–9 AM — *Registration & light breakfast*
+        - :material-handshake: 9 AM–5 PM — *Summit*
+        - :material-glass-cocktail: 5:15–7:15 PM — *Reception @ Boulder Social, 1600 38th St, Boulder CO*
+    - **Wed, Sep 24**
+        - :material-coffee: 8:30–9 AM — *Light breakfast*
+        - :material-handshake: 9 AM–5 PM — *Summit*
+    - **Thu, Sep 25**
+        - :material-coffee: 8:30–9 AM — *Light breakfast*
+        - :material-handshake: 9 AM–12 PM — *Summit*
+</div>
 
-**2025 ESIIL Innovation Summit**
-
-September 22: 1-4 pm MT - Leadership workshop (by invite), Early Registration 
-
-September 23: 
-
-* 8:30am-9am MT: Registration, Light breakfast provided
-
-* 9am-5pm MT: Summit
-  
-* 5:15-7:15pm MT: Summit Reception at Boulder Social, 1600 38th St., Boulder, CO 80301
-  
-Septmeber 24: 
-
-* 8:30am-9am MT: Light breakfast provided
-  
-* 9am-5pm MT: Summit
-  
-September 25: 
-
-* 8:30am-9am MT: Light breakfast provided
-  
-* 9am-12pm MT: Summit
 
 ## Summit Features
 - **Big Data and Cyberinfrastructure:** Access cutting-edge data analysis tools to explore tipping points including the **ecological and social dynamics** of systems that are undergoing transformation, or are poised to do so.
