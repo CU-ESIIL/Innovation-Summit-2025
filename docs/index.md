@@ -39,7 +39,6 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 
 -   :material-school:{ .agenda-ico } **Pre-Summit Trainings**
     ---
-    [:material-calendar: Add to calendar](#){ .md-button .md-button--secondary disabled }
     - :material-clock: **Tue, Aug 5 · 1–3 PM MT** — *Science Jam: Creative Brainstorming to Inspire Innovation*
     - :material-clock: **Wed, Sep 3 · 1–3 PM MT** — *Navigating CyVerse & GitHub: Gateway to Advanced Computation*
     - :material-clock: **Tue, Sep 9 · 1–3 PM MT** — *Creative Data Exploration in the Cloud*
