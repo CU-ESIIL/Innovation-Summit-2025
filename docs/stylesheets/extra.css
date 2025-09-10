@@ -1,6 +1,6 @@
 .summit-buttons {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 1rem;
   width: 100%;
   margin: 1rem 0;
@@ -17,7 +17,7 @@
   transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
   font-size: 1.5rem;
   font-weight: bold;
-  width: 100%;
+  flex: 1;
   box-sizing: border-box;
   text-align: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
