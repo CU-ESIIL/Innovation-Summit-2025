@@ -217,3 +217,26 @@ Boulder has an extensive system of city walking/biking paths; [maps can be found
 
 
 *This event is hosted by ESIIL and funded by the National Science Foundation (via award # DBI-2153040), and subject to the NSF’s terms and conditions.
+
+## Group Repos
+
+<div class="group-repos">
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 1</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 2</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 3</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 4</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 5</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 6</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 7</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 8</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 9</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 10</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 11</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 12</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 13</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 14</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 15</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 16</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 17</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/Innovation-Summit-2024__2_Species-interactions-under-climate-change">Group Repo 18</a>
+</div>
