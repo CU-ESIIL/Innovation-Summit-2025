@@ -9,21 +9,23 @@
 .summit-button {
   display: block;
   padding: 1rem 1.5rem;
-  background-color: #e0e0e0;
-  color: #1565c0;
-  border: 1px solid #1565c0;
-  border-radius: 4px;
+  background: linear-gradient(135deg, #42a5f5, #1e88e5);
+  color: #fff;
+  border: none;
+  border-radius: 12px;
   text-decoration: none;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
   font-size: 1.25rem;
   width: 100%;
   box-sizing: border-box;
   text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 .summit-button:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transform: scale(1.03);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(135deg, #64b5f6, #2196f3);
 }
 
 .group-repos {
@@ -36,17 +38,19 @@
 .group-repo-button {
   display: block;
   padding: 1rem 1.5rem;
-  background-color: #e0e0e0;
-  color: #1565c0;
-  border: 1px solid #1565c0;
-  border-radius: 4px;
+  background: linear-gradient(135deg, #42a5f5, #1e88e5);
+  color: #fff;
+  border: none;
+  border-radius: 12px;
   text-decoration: none;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
   text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 .group-repo-button:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transform: scale(1.03);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(135deg, #64b5f6, #2196f3);
 }
 
