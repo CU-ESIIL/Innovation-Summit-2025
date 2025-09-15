@@ -1,4 +1,4 @@
-# Your Name Here
+# Maria Paula Rodriguez
 
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Maria Paula Rodriguez Parada  
+- **Affiliation:** University of Wyoming  
+- **Email:** mrodri23@uwyo.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I work in population and conservation genomics. Excited to learn about new metadata for addressing tipping points in this summit!  
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I really like NBA! 
 
 ---
 
