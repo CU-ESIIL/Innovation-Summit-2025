@@ -11,7 +11,7 @@ Please edit this file with your own details.
 - **Email:** mrodri23@uwyo.edu  
 
 ## Research Interests
-I work in population and conservation genomics. Excited to learn about new metadata for addressing tipping points in this summit!  
+I work in population and conservation genomics. Excited to learn about new datasets for addressing tipping points in this summit!  
 
 ## Fun Fact
 I really like NBA! 
