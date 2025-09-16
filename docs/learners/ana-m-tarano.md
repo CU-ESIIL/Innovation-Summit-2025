@@ -1,23 +1,16 @@
-# Your Name Here
-
-Welcome to the GitHub training workshop!  
-Please edit this file with your own details.
+# Ana M. Tárano
 
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:**  Ana M. Tárano  
+- **Affiliation:** Arizona State University -- School of Computing and Augmented Intelligence
+- **Email:** atarano@asu.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I am interested in designing human-centered tools that translate Earth observation, machine learning, and statistical modeling into practical resources for communities. My experiences span from addressing local food security challenges to mapping coral reef benthic habitats.
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I love biking along the coastal dunes!
 
 ---
-
-*Instructions:*  
-- Replace all the placeholder text above with your own info.  
-- Save your edits (`git commit`) and push (`git push`) to share with the group.  
