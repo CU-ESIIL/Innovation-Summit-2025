@@ -1,20 +1,19 @@
-# Your Name Here
-
+# Courtney King
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
 
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Courtney King
+- **Affiliation:** Michigan Technological University  
+- **Email:** clking@mtu.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I’m studying the movements and behaviors — including foraging, predator avoidance, and habitat selection — of moose on Isle Royale National Park. I am interested in how the decisions of moose are impacted by ecological interactions and environmental conditions, and how they in-turn influence the forests in which they reside. I am particularly interested in big data, image classification, and utilizing/improving approaches to better understand the environment (snow, forest structure and composition, forest health, etc.) via remote sensing.
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I lived in western Colorado previously, and am excited to be back! After the summit I'll be running a marathon near Paonia, CO.  
 
 ---
 
