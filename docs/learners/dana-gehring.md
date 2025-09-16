@@ -1,7 +1,7 @@
 # Dana Gehring
 
 Welcome to the GitHub training workshop!  
-Please edit this file with your own details.
+
 
 ---
 
