@@ -6,7 +6,7 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
+- **Name:** Nayani Ilangakoon
 - **Affiliation:** Your institution or organization  
 - **Email:** your@email.edu  
 
