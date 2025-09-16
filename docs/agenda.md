@@ -11,11 +11,11 @@ We are still developing the agenda for the 2025 ESIIL Summit and will add more i
 
 **2025 ESIIL Innovation Summit**
 
-**Monday, September 22**: 1-4 pm MT - Leadership workshop (by invite), Early Registration
+**Monday, September 22**: 1-4 pm MT - Leadership workshop (by invite)
 
 **Tuesday, September 23**:
 
-* 8:30am-9am MT: Registration, Light breakfast provided
+* 8:00am-9am MT: Registration, Light breakfast provided
 
 * 9am-5pm MT: Summit
 
