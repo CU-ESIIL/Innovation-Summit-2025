@@ -1,4 +1,4 @@
-# Your Name Here
+# Brian Yandell
 
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
@@ -6,15 +6,19 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+
+- **Name:** Brian Yandell  
+- **Affiliation:** University of Wisconsin-Madison  
+- **Email:** byandell@wisc.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+
+I am now retired, and I continue to be involved in research.
+Visit [byandell.github.io](https://byandell.github.io) to learn more.
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I love kayaking, biking, and hiking.
+Lately, I have been working with a trainer to build core strength.
 
 ---
 
