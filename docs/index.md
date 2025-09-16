@@ -49,9 +49,8 @@ The goals of the 2025 ESIIL Innovation Summit are to:
     [:material-map-marker: Venue & travel](#venue-information){ .md-button }
     - **Mon, Sep 22**
         - :material-account-tie: 1–4 PM MT — *Leadership workshop (invite only)*
-        - :material-account-check: Early registration
     - **Tue, Sep 23**
-        - :material-coffee: 8:30–9 AM — *Registration & light breakfast*
+        - :material-coffee: 8:00–9 AM — *Registration & light breakfast*
         - :material-handshake: 9 AM–5 PM — *Summit*
         - :material-glass-cocktail: 5:15–7:15 PM — *Reception @ Boulder Social, 1600 38th St, Boulder CO*
     - **Wed, Sep 24**
