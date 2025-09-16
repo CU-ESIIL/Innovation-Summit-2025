@@ -8,7 +8,7 @@ Please edit this file with your own details.
 ## About Me
 - **Name:** Ty Tuff 
 - **Affiliation:** ESIIL  
-- **Email:** your@email.edu  
+- **Email:** ty.tuff@email.edu  
 
 ## Research Interests
 Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
