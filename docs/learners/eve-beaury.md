@@ -17,7 +17,3 @@ I am an invasion ecologist and global change biogeographer. I use spatial data a
 I have a 25 lb. chihuahua mix who is very cute but an absolute menace. I am also a proud CU Boulder grad! 
 
 ---
-
-*Instructions:*  
-- Replace all the placeholder text above with your own info.  
-- Save your edits (`git commit`) and push (`git push`) to share with the group.  
