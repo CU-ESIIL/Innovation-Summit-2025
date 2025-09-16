@@ -1,23 +1,16 @@
-# Your Name Here
-
-Welcome to the GitHub training workshop!  
-Please edit this file with your own details.
+# Nate Hofford
 
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Nate Hofford  
+- **Affiliation:** CU Boulder / Earth Lab / NC RISCC  
+- **Email:** nate.hofford@colorado.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I am a plant evolutionary ecologist and data scientist! I'm interested in invasive species and fire ecology, and am really excited to get to know everyone at the summit.   
 
 ## Fun Fact
-Share one fun fact about yourself!  
+Did you know that spanish moss isn't a moss at all? It's actually a bromeliad in the same family as pineapple (Bromeliaceae). 
 
 ---
-
-*Instructions:*  
-- Replace all the placeholder text above with your own info.  
-- Save your edits (`git commit`) and push (`git push`) to share with the group.  
