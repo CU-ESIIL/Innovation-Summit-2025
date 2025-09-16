@@ -7,7 +7,7 @@ Please edit this file with your own details.
 
 ## About Me
 - **Name:** Nayani Ilangakoon
-- **Affiliation:** Your institution or organization  
+- **Affiliation:** Earth lab  
 - **Email:** your@email.edu  
 
 ## Research Interests
