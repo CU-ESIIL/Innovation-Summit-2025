@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Samuel Reed  
+- **Affiliation:** Postdoc, University of Minnesota
+- **Email:** reed0632@umn.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I am a forest ecologist with an interest in how we can better prepare and manage for more frequent and severe disturbances.
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I start a permanent position at the Climate and Conservation Manager for Friends of the Boundary Waters on September 29th!
 
 ---
 
