@@ -1,4 +1,4 @@
-# Your Name Here
+# Bob Rabin
 
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
@@ -6,16 +6,16 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Bob Rabin  
+- **Affiliation:** Adjunct faculty, Keweenaw Bay Ojibwa College & Ilisagvik College  
+- **Email:** brabin@kbocc.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+.  Land surface - atmosphere interactions, remote sensing, weather forecasting
 
 ## Fun Fact
-Share one fun fact about yourself!  
-
+I still enjoy playing full court basketball!  
+Worked for the NOAA Severe Storms Lab for 43 years.
 ---
 
 *Instructions:*  
