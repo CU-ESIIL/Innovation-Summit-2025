@@ -1,7 +1,7 @@
 # Brian Yandell
 
 Welcome to the GitHub training workshop!  
-Please edit this file with your own details.
+See my details below.
 
 ---
 
