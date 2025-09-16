@@ -1,4 +1,4 @@
-# Your Name Here
+# Eve Beaury
 
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Evelyn Beaury (Eve)
+- **Affiliation:** New York Botanical Garden
+- **Email:** ebeaury@nybg.org
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I am an invasion ecologist and global change biogeographer. I use spatial data and maps to understand patterns of land-use, invasions, and climate change, and how these factors interact to affect biodiversity. I am looking forward to connecting with other spatial scientists and exploring new collaborations on ecological transformations. 
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I have a 25 lb. chihuahua mix who is very cute but an absolute menace. I am also a proud CU Boulder grad! 
 
 ---
 
