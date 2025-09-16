@@ -18,7 +18,6 @@ I love watching movies!
 
 ---
 
-
 *Instructions:*  
 - Replace all the placeholder text above with your own info.  
 - Save your edits (`git commit`) and push (`git push`) to share with the group.  
