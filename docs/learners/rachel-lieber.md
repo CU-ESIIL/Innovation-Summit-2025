@@ -6,9 +6,9 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Rachel Lieber 
+- **Affiliation:** ESIIL - CU Boulder
+- **Email:** rachel.lieber@colorado.edu 
 
 ## Research Interests
 Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
