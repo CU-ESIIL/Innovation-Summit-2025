@@ -1,20 +1,16 @@
-# Your Name Here
-
-Welcome to the GitHub training workshop!  
-Please edit this file with your own details.
+# Evan Fiorenza
 
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Evan Fiorenza  
+- **Affiliation:** University of California, Irvine  
+- **Email:** efiorenz@uci.edu 
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
-
+I work on patterns of wildlife disease and biodiversity trends using statistical models and large, global datasets. 
 ## Fun Fact
-Share one fun fact about yourself!  
+I have been a head teaching assistant for a class with ~2,000 students!
 
 ---
 
