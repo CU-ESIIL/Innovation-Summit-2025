@@ -14,7 +14,7 @@ Please edit this file with your own details.
 Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I used to do aerial silks!
 
 ---
 
