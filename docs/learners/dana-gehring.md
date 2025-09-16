@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Dana Gehring 
+- **Affiliation:** Oglala Lakota College
+- **Email:** danag@olc.edu 
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+Include: environmental justice and environmental restoration
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I am the owner of 6 wirehair dachshunds. 
 
 ---
 
