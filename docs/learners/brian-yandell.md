@@ -21,7 +21,3 @@ I love kayaking, biking, and hiking.
 Lately, I have been working with a trainer to build core strength.
 
 ---
-
-*Instructions:*  
-- Replace all the placeholder text above with your own info.  
-- Save your edits (`git commit`) and push (`git push`) to share with the group.  
