@@ -1,23 +1,12 @@
-# Your Name Here
-
-Welcome to the GitHub training workshop!  
-Please edit this file with your own details.
-
----
+# Cullen Molitor
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Cullen Molitor  
+- **Affiliation:** CEGA (Center for Effective Global Action), UC Berkeley
+- **Email:** cmolitor@berkeley.edu 
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I work on applying remote sensing and machine learning to understand how climate change affects human wellbeing and the environment. I'm particularly interested in using earth observation and microdata to develop data-driven solutions for climate change response, and I lead workshops through the Togo Data Lab to empower local researchers and policymakers in resource-constrained settings.
 
 ## Fun Fact
-Share one fun fact about yourself!  
-
----
-
-*Instructions:*  
-- Replace all the placeholder text above with your own info.  
-- Save your edits (`git commit`) and push (`git push`) to share with the group.  
+I'm a former scientific diver who contributed to the Kelp Forest Monitoring Program at Channel Islands National Park, and I still explore California's Channel Islands kelp forest ecosystems in my free time!
