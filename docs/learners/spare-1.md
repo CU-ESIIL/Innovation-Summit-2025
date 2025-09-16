@@ -1,23 +1,16 @@
-# Your Name Here
-
-Welcome to the GitHub training workshop!  
-Please edit this file with your own details.
+# Jazlynn Hall
 
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Jazlynn Hall  
+- **Affiliation:** Cary Institute of Ecosystem Studies  
+- **Email:** hallj@caryinstitute.org  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I’m a forest, landscape, and disturbance ecologist, starting as an assistant professor at CU Boulder in 2026 (CIRES and EBIO). In my work, I evaluate the spatial and temporal relationships between vegetation, climate, and disturbances such as fire, drought, cyclonic storms, and deforestation. Most recently, I’m interested in forest response to and recovery from fire and the post-fire impacts on forest ecosystem services like carbon storage and water resources. 
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I'm from Wyoming! 
 
 ---
-
-*Instructions:*  
-- Replace all the placeholder text above with your own info.  
-- Save your edits (`git commit`) and push (`git push`) to share with the group.  
