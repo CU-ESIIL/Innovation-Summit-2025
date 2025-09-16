@@ -6,12 +6,12 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Maximilian Stiefel 
+- **Affiliation:** King's College London
+- **Email:** maximilian.stiefel@kcl.ac.uk 
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+Max is a climate risk researcher in the Department of Geography at King’s College London and the Leverhulme Centre for Wildfires, Environment, and Society. He is currently analyzing natural hazard mitigation plans with natural language processing to statistically model their contextual determinants and effectiveness in risk mitigation. His broader research interests are in modeling risk to human systems across all climate-sensitive hazards. Max holds a PhD from the Department of Geography at the University of California, Santa Barbara. He also consults as a scientist at ClimateCheck, an organization committed to providing open source property-level climate impacts assessment to the public. 
 
 ## Fun Fact
 Share one fun fact about yourself!  
