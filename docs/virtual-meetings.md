@@ -18,9 +18,7 @@ Please join us for our pre-Summit training events:
 
 - [Main document: ESIIL's Python Quickstart Guide](https://cu-esiil.github.io/home/quickstart/python/)
 - [View Recording](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/EcfZ8_WUEuxOk3vk0ydZ6O8BLEG4c2Lw5lWw4Azh5pfouQ?e=rIvKfL)
-- Haven't received a calendar invite? Please email esiil@colorado.edu to get the Zoom link.
 
-**Recordings will be posted here after each training.**
 
 ## Leadership Program Invitees:
 
