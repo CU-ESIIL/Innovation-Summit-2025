@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Rachel Mador-House  
+- **Affiliation:** Learn About Genetics Consulting  
+- **Email:** rachelmador@gmail.com  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I am a geneticist and love using genetics to help us understand our environment and health. Currently I work as a private consultant for three genomics-based companies and am honoured to be on the ESIIL advisory board.  
 
 ## Fun Fact
-Share one fun fact about yourself!  
+Tattooing is illegal in South Korea, so naturally this is where I got my first tattoo while living there and teaching English. 
 
 ---
 
