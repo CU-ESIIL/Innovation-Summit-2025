@@ -58,7 +58,7 @@ The goals of the 2025 ESIIL Innovation Summit are to:
         - :material-handshake: 9 AM–5 PM — *Summit*
     - **Thu, Sep 25**
         - :material-coffee: 8:30–9 AM — *Light breakfast*
-        - :material-handshake: 9 AM–12 PM — *Summit*
+        - :material-handshake: 8:45 AM–12 PM — *Summit*
 </div>
 
 
