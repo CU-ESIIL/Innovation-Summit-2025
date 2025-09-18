@@ -15,21 +15,21 @@ We are still developing the agenda for the 2025 ESIIL Summit and will add more i
 
 **Tuesday, September 23**:
 
-* 8:00am-9am MT: Registration, Light breakfast provided
+* 8:00 am-9 am MT: Registration, Light breakfast provided
 
-* 9am-5pm MT: Summit
+* 9 am-5 pm MT: Summit
 
-* 5:15-7:15pm MT: Reception at Boulder Social, 1600 38th St., Boulder, CO 80301
+* 5:15-7:15 pm MT: Reception at Boulder Social, 1600 38th St., Boulder, CO 80301
 
 **Wednesday, Septmeber 24**:
 
-* 8:30am-9am MT: Light breakfast provided
+* 8:30 am-9 am MT: Light breakfast provided
 
-* 9am-5pm MT: Summit
+* 9:00 am-5 pm MT: Summit
 
 **Thursday, September 25**:
 
-* 8:30am-9am MT: Light breakfast provided
+* 8:30 am-9 am MT: Light breakfast provided
 
-* 9am-12pm MT: Summit
+* 8:45 am-12 pm MT: Summit
 
