@@ -218,26 +218,26 @@ Boulder has an extensive system of city walking/biking paths; [maps can be found
 ## Group Repos
 
 <div class="group-repos">
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/defining-tipping-points-and-transformation-innovation-summit-2025__1">Defining Tipping Points And Transformation</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/language-perspectives-on-sustainability-innovation-summit-2025__2">Language Perspectives On Sustainability</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/understanding-environmental-drivers-innovation-summit-2025__3">Understanding Environmental Drivers</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/stressors-and-regime-shifts-innovation-summit-2025__4">Stressors And Regime Shifts</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-innovation-summit-2025__5">Abrupt Vs Gradual Shifts</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/stressors-foodweb-connectivity-stability-innovation-summit-2025__6">Stressors Foodweb Connectivity Stability</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/historic-biodiversity-and-social-systems-innovation-summit-2025__7">Historic Biodiversity And Social Systems</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/unsustainable-land-use-and-social-drivers-innovation-summit-2025__8">Unsustainable Land Use And Social Drivers</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/policy-law-and-sacred-sites-innovation-summit-2025__9">Policy Law And Sacred Sites</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/system-dynamics-and-early-warnings-innovation-summit-2025__10">System Dynamics And Early Warnings</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/anomaly-detection-in-coral-reefs-innovation-summit-2025__11">Anomaly Detection In Coral Reefs</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/ecoregional-models-and-regime-shifts-innovation-summit-2025__12">Ecoregional Models And Regime Shifts</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/ecosystem-services-and-transformation-innovation-summit-2025__13">Ecosystem Services And Transformation</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/species-interactions-and-restoration-innovation-summit-2025__14">Species Interactions And Restoration</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/sacred-spaces-mining-and-tourism-innovation-summit-2025__15">Sacred Spaces Mining And Tourism</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/measuring-social-impacts-of-transformation-innovation-summit-2025__16">Measuring Social Impacts Of Transformation</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/resilience-to-rare-hydrologic-events-innovation-summit-2025__17">Resilience To Rare Hydrologic Events</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/indigenous-approaches-and-co-management-innovation-summit-2025__18">Indigenous Approaches And Co Management</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/management-practices-and-thresholds-innovation-summit-2025__19">Management Practices And Thresholds</a>
-  <a class="group-repo-button" href="https://github.com/CU-ESIIL/data-interoperability-and-harmonization-innovation-summit-2025__20">Data Interoperability And Harmonization</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/defining-tipping-points-and-transformation-innovation-summit-2025__1" title="1 - Defining Tipping Points And Transformation">Defining Tipping Points And Transformation</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/language-perspectives-on-sustainability-innovation-summit-2025__2" title="2 - Language Perspectives On Sustainability">Language Perspectives On Sustainability</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/understanding-environmental-drivers-innovation-summit-2025__3" title="3 - Understanding Environmental Drivers">Understanding Environmental Drivers</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/stressors-and-regime-shifts-innovation-summit-2025__4" title="4 - Stressors And Regime Shifts">Stressors And Regime Shifts</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-innovation-summit-2025__5" title="5 - Abrupt Vs Gradual Shifts">Abrupt Vs Gradual Shifts</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/stressors-foodweb-connectivity-stability-innovation-summit-2025__6" title="6 - Stressors Foodweb Connectivity Stability">Stressors Foodweb Connectivity Stability</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/historic-biodiversity-and-social-systems-innovation-summit-2025__7" title="7 - Historic Biodiversity And Social Systems">Historic Biodiversity And Social Systems</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/unsustainable-land-use-and-social-drivers-innovation-summit-2025__8" title="8 - Unsustainable Land Use And Social Drivers">Unsustainable Land Use And Social Drivers</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/policy-law-and-sacred-sites-innovation-summit-2025__9" title="9 - Policy Law And Sacred Sites">Policy Law And Sacred Sites</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/system-dynamics-and-early-warnings-innovation-summit-2025__10" title="10 - System Dynamics And Early Warnings">System Dynamics And Early Warnings</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/anomaly-detection-in-coral-reefs-innovation-summit-2025__11" title="11 - Anomaly Detection In Coral Reefs">Anomaly Detection In Coral Reefs</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/ecoregional-models-and-regime-shifts-innovation-summit-2025__12" title="12 - Ecoregional Models And Regime Shifts">Ecoregional Models And Regime Shifts</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/ecosystem-services-and-transformation-innovation-summit-2025__13" title="13 - Ecosystem Services And Transformation">Ecosystem Services And Transformation</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/species-interactions-and-restoration-innovation-summit-2025__14" title="14 - Species Interactions And Restoration">Species Interactions And Restoration</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/sacred-spaces-mining-and-tourism-innovation-summit-2025__15" title="15 - Sacred Spaces Mining And Tourism">Sacred Spaces Mining And Tourism</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/measuring-social-impacts-of-transformation-innovation-summit-2025__16" title="16 - Measuring Social Impacts Of Transformation">Measuring Social Impacts Of Transformation</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/resilience-to-rare-hydrologic-events-innovation-summit-2025__17" title="17 - Resilience To Rare Hydrologic Events">Resilience To Rare Hydrologic Events</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/indigenous-approaches-and-co-management-innovation-summit-2025__18" title="18 - Indigenous Approaches And Co Management">Indigenous Approaches And Co Management</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/management-practices-and-thresholds-innovation-summit-2025__19" title="19 - Management Practices And Thresholds">Management Practices And Thresholds</a>
+  <a class="group-repo-button" href="https://github.com/CU-ESIIL/data-interoperability-and-harmonization-innovation-summit-2025__20" title="20 - Data Interoperability And Harmonization">Data Interoperability And Harmonization</a>
 </div>
 
 *This event is hosted by ESIIL and funded by the National Science Foundation (via award # DBI-2153040), and subject to the NSF’s terms and conditions.
