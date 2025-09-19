@@ -6,8 +6,8 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Maria Paula Rodriguez Parada  
-- **Affiliation:** University of Wyoming  and ESIIL
+- **Name:** Maria Paula Rodriguez  
+- **Affiliation:** University of Wyoming  and ESIIL 
 - **Email:** mrodri23@uwyo.edu  
 
 ## Research Interests
