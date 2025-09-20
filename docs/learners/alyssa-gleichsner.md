@@ -1,4 +1,4 @@
-# Your Name Here
+# Alyssa Gleichsner
 
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
