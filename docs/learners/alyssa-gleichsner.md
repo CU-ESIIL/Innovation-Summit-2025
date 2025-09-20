@@ -11,10 +11,10 @@ Please edit this file with your own details.
 - **Email:** aglei002@plattsburgh.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I am a disease ecologist primarily interested in how environmental stressors alter host-parasite relationships. I'm excited to collaborate with everyone and have designated time to do cool science! 
 
 ## Fun Fact
-Share one fun fact about yourself!  
+Hmm.... 
 
 ---
 
