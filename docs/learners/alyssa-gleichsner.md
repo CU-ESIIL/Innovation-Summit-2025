@@ -14,7 +14,7 @@ Please edit this file with your own details.
 I am a disease ecologist primarily interested in how environmental stressors alter host-parasite relationships. I'm excited to collaborate with everyone and have designated time to do cool science! 
 
 ## Fun Fact
-Hmm.... 
+Hmm.... I cannot see out of my right eye (most of the time)! 
 
 ---
 
