@@ -14,7 +14,7 @@ Please edit this file with your own details.
 Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
 
 ## Fun Fact
-I spent a summer as a wildland firefighter for the Forest Service.
+I spent a summer working as a wildland firefighter for the Forest Service.
 ---
 
 *Instructions:*  
