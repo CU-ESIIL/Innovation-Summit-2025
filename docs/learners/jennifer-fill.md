@@ -11,7 +11,7 @@ Please edit this file with your own details.
 - **Email:** jfill@ufl.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I'm very interested in fire ecology and how changes in fire regimes relate to changes in plant and wildlife communities.
 
 ## Fun Fact
 I spent a summer working as a wildland firefighter for the Forest Service.
