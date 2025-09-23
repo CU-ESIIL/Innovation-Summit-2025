@@ -6,12 +6,14 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Nilima Islam Luba  
+- **Affiliation:** Florida International University
+- **Email:** nluba002@fiu.edu
+             nilimaislamluba@gmail.com
+    
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I am a Phd candidate in Earth System Science (Natural Resource Science and Management). My dissertation research focuses on hurricane impact on household behavior and wellbeing. I am interested hazard risk modelling and mitigation.
 
 ## Fun Fact
 Share one fun fact about yourself!  
