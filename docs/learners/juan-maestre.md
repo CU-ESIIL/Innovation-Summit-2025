@@ -1,4 +1,4 @@
-Juan P. Maestre
+## Juan P. Maestre
 
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
@@ -11,10 +11,10 @@ Please edit this file with your own details.
 - **Email:** juanpedro.maestre@utexas.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+Relationships between climate, air quality, flooding, and population health. 
 
 ## Fun Fact
-Share one fun fact about yourself!  
+Love gardening and cats. 
 
 ---
 
