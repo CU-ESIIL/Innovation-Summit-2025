@@ -8,7 +8,7 @@ Please edit this file with your own details.
 ## About Me
 - **Name:** Christianah Adegboyega  
 - **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Email:** christianah1.adegboy@famu.edu  
 
 ## Research Interests
 Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
