@@ -237,7 +237,7 @@ Boulder has an extensive system of city walking/biking paths; [maps can be found
   <a class="group-repo-button" href="https://cu-esiil.github.io/management-practices-prevent-thresholds-innovation-summit-2025__17/" title="17 - Management Practices Prevent Compound Disturbance">17 - Management Practices Prevent Compound Disturbance</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/" title="18 - Cross Cutting Data Interoperability Harmonization">18 - Cross Cutting Data Interoperability Harmonization</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/wildcard-topic-innovation-summit-2025__19/" title="19 - HydroFutures / WaterTipPoint — Building Resilience for the Future">19 - HydroFutures / WaterTipPoint — Building Resilience for the Future</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/wildcard-topic-innovation-summit-2025__20/" title="20 - HeSapa EIA/EIS Study">20 - HeSapa EIA/EIS Study</a>
+  <a class="group-repo-button" href="https://cu-esiil.github.io/wildcard-topic-innovation-summit-2025__20/" title="20 - HeSapa EIA/EIS Study">20 - He Sapa Makiyuta EA/EIS Study</a>
 </div>
 
 *This event is hosted by ESIIL and funded by the National Science Foundation (via award # DBI-2153040), and subject to the NSF’s terms and conditions.
