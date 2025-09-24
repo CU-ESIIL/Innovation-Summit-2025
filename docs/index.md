@@ -218,7 +218,7 @@ Boulder has an extensive system of city walking/biking paths; [maps can be found
 ## Group Repos
 
 <div class="group-repos">
-  <a class="group-repo-button" href="https://cu-esiil.github.io/defining-tipping-points-and-transformation-innovation-summit-2025__1/" title="1 - Mni Awanka (watching over water)">1 - Defining Tipping Points And Transformation</a>
+  <a class="group-repo-button" href="https://cu-esiil.github.io/defining-tipping-points-and-transformation-innovation-summit-2025__1/" title="1 - Mni Awanka (watching over water)">1 - Mni Awanka (watching over water)</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/stressors-order-duration-frequency-intensity-innovation-summit-2025__2/" title="2 - Stressors Order Duration Frequency Intensity">2 - Stressors Order Duration Frequency Intensity</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/" title="3 - Abrupt Vs Gradual Shifts Rate Factors">3 - Abrupt Vs Gradual Shifts Rate Factors</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/stressors-food-web-connectivity-stability-innovation-summit-2025__4/" title="4 - Stressors Food Web Connectivity Stability">4 - Stressors Food Web Connectivity Stability</a>
