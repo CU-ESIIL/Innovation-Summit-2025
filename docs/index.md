@@ -221,7 +221,7 @@ Boulder has an extensive system of city walking/biking paths; [maps can be found
   <a class="group-repo-button" href="https://cu-esiil.github.io/defining-tipping-points-and-transformation-innovation-summit-2025__1/" title="1 - Mni Awanka (watching over water)">1 - Mni Awanka (watching over water)</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/stressors-order-duration-frequency-intensity-innovation-summit-2025__2/" title="2 - Stressors Order Duration Frequency Intensity">2 - Stressors Order Duration Frequency Intensity</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/" title="3 - Abrupt Vs Gradual Shifts Rate Factors">3 - Abrupt Vs Gradual Shifts Rate Factors</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/stressors-food-web-connectivity-stability-innovation-summit-2025__4/" title="4 - Stressors Food Web Connectivity Stability">4 - Stressors Food Web Connectivity Stability</a>
+  <a class="group-repo-button" href="https://cu-esiil.github.io/stressors-food-web-connectivity-stability-innovation-summit-2025__4/" title="4 - Stressors, Food Web Connectivity, and Stability">4 - Stressors, Food Web Connectivity, and Stability</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/" title="5 - Historic Biodiversity Human Infrastructure">5 - Historic Biodiversity Human Infrastructure</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6/" title="6 - Unsustainable Land Use Agriculture Behavior Change Capacity">6 - Unsustainable Land Use Agriculture Behavior Change Capacity</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/policy-law-indigenous-sacred-sites-innovation-summit-2025__7/" title="7 - Policy Law Indigenous Sacred Sites">7 - Policy Law Indigenous Sacred Sites</a>
@@ -234,10 +234,10 @@ Boulder has an extensive system of city walking/biking paths; [maps can be found
   <a class="group-repo-button" href="https://cu-esiil.github.io/social-impacts-of-transformations-innovation-summit-2025__14/" title="14 - Social Impacts Measurement Evaluation">14 - Social Impacts Measurement Evaluation</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/" title="15 - Resilience Rare Hydrologic Events Management">15 - Resilience Rare Hydrologic Events Management</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/" title="16 - Indigenous Approaches Co Management Hegemonic Responses">16 - Indigenous Approaches Co Management Hegemonic Responses</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/management-practices-prevent-thresholds-innovation-summit-2025__17/" title="17 - Management Practices Prevent Thresholds">17 - Management Practices Prevent Thresholds</a>
+  <a class="group-repo-button" href="https://cu-esiil.github.io/management-practices-prevent-thresholds-innovation-summit-2025__17/" title="17 - Management Practices Prevent Compound Disturbance">17 - Management Practices Prevent Compound Disturbance</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/" title="18 - Cross Cutting Data Interoperability Harmonization">18 - Cross Cutting Data Interoperability Harmonization</a>
   <a class="group-repo-button" href="https://cu-esiil.github.io/wildcard-topic-innovation-summit-2025__19/" title="19 - Wildcard Topic">19 - Wildcard Topic</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/wildcard-topic-innovation-summit-2025__20/" title="20 - Wildcard Topic">20 - Wildcard Topic</a>
+  <a class="group-repo-button" href="https://cu-esiil.github.io/wildcard-topic-innovation-summit-2025__20/" title="20 - HeSapa EIA/EIS Study">20 - HeSapa EIA/EIS Study</a>
 </div>
 
 *This event is hosted by ESIIL and funded by the National Science Foundation (via award # DBI-2153040), and subject to the NSF’s terms and conditions.
