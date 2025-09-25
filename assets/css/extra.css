@@ -1,0 +1,11 @@
+/* Feature icons a bit larger and colored */
+.feature-ico { font-size: 1.6rem; color: var(--md-primary-fg-color); }
+
+/* Card hover micro-animation */
+.grid.cards > ul > li {
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.grid.cards > ul > li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,.08);
+}
