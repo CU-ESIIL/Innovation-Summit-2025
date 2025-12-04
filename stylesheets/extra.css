@@ -1,0 +1,57 @@
+.summit-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+.summit-button {
+  display: block;
+  padding: 1rem 1.5rem;
+  background: linear-gradient(135deg, #42a5f5, #1e88e5);
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  font-size: 1.5rem;
+  font-weight: bold;
+  flex: 1;
+  box-sizing: border-box;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.summit-button:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(135deg, #64b5f6, #2196f3);
+}
+
+.group-repos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.group-repo-button {
+  display: block;
+  padding: 1rem 1.5rem;
+  background: linear-gradient(135deg, #42a5f5, #1e88e5);
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.group-repo-button:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(135deg, #64b5f6, #2196f3);
+}
+
